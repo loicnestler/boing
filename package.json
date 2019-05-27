@@ -1,0 +1,17 @@
+{
+	"name": "boing",
+	"version": "1.0.0",
+	"main": "bin/index.js",
+	"repository": "git@github.com:loicnestler/boing.git",
+	"author": "loicnestler <loicnestler@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"arg": "^4.1.0",
+		"axios": "^0.18.0",
+		"enquirer": "^2.3.0",
+		"fs-extra": "^8.0.1",
+		"kleur": "^3.0.3",
+		"ora": "^3.4.0",
+		"uuid": "^3.3.2"
+	}
+}
